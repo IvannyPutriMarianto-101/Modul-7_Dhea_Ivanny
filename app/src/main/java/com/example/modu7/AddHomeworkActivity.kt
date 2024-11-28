@@ -11,6 +11,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.modu7.data.Homework
 import com.example.modu7.database.DatabaseContract
+import com.example.modu7.database.HomeworkHelper
 import com.example.modu7.databinding.ActivityAddHomeworkBinding
 import java.text.SimpleDateFormat
 import java.util.Date

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.satyavira.modul7localdatabasemobile"
+    namespace = "com.example.modu7"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.satyavira.modul7localdatabasemobile"
+        applicationId = "com.example.modu7"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
